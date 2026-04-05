@@ -60,4 +60,5 @@ You must add your own credentials.
 
 If you like this project, give it a star ⭐
 :::
+<img width="1489" height="736" alt="image" src="https://github.com/user-attachments/assets/f5f0f1b2-251e-4b76-ba09-489534c07746" />
 
